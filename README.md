@@ -7,7 +7,6 @@
 ---
 
 🌱 I’m currently learning **Java and MERN Stack**  
-💬 Ask me about **Java** and **MERN development**  
 📫 How to reach me: **samratdesai7@gmail.com**
 
 ---
