@@ -48,4 +48,17 @@
 
 ---
 
+### 📊 GitHub Stats:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=samratdesai7&show_icons=true&theme=github_dark" alt="Samrat Desai's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samratdesai7&layout=compact&theme=github_dark" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samratdesai7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
 📌 _Feel free to check out my repositories and connect!_
