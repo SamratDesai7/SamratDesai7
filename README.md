@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samrat Desai</h1>
- 
+<h1 align="center">Hi 👋, I'm Samrat Desai</h1> 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+%7C+MERN+Stack+Enthusiast;Clean+Code+Advocate;Always+Learning..." alt="Typing SVG" />
 </p>
