@@ -4,7 +4,6 @@
 </p>
 
 ---
-
 ### 🧠 About Me
 
 - 🎯 Currently focused on mastering **Java** and the **MERN Stack**
