@@ -53,12 +53,9 @@
 ### 🚀 Featured Projects
 
 - 🧮 [Counter App](https://github.com/SamratDesai7/Counter) – A minimal and responsive counter built using React + Tailwind, deployed on Vercel → [Live Demo](https://counter-ten-gamma.vercel.app/)
-- 📊 [Expense Tracker](https://github.com/SamratDesai7/Expense-Tracker) – React-based app for managing income and expenses
-- ⏱️ [Stopwatch](https://github.com/SamratDesai7/StopWatch) – A simple stopwatch made with JS, HTML, and CSS
-- 🧠 [Cat Fact Generator](https://github.com/SamratDesai7/Cat-api-js) – Fetches random cat facts using the Cat API
-- 🐶 [Dog API](https://github.com/SamratDesai7/dog-api) – Shows dog images with async/await and error handling
-- 🎮 [Simon Says Game](https://github.com/SamratDesai7/Simon-Says-Game) – A memory-based JavaScript game
-- 🎨 [Random Color Generator](https://github.com/SamratDesai7/randomColorGenrater) – Instantly creates random colors with HEX/RGB codes
+- 📊 [Expense Tracker](https://github.com/SamratDesai7/Expense-Tracker) – React-based app for managing income and expenses, deployed using github pages  → [Live Demo](https://samratdesai7.github.io/Expense-Tracker/)
+- ⏱️ [Stopwatch](https://github.com/SamratDesai7/StopWatch) – A simple stopwatch made with JS, HTML, and CSS, deployed using github pages → [Live Demo](https://samratdesai7.github.io/StopWatch/)
+- 🎮 [Simon Says Game](https://github.com/SamratDesai7/Simon-Says-Game) – A memory-based JavaScript game, deployed using github pages → [Live Demo]()SOON
 
 ---
 
