@@ -50,8 +50,11 @@
 
 ---
 
+---
+
 ### 🚀 Featured Projects
 
+- 🧮 [Counter App](https://counter-samrats-projects-67819e53.vercel.app/) – A minimal and responsive counter built using React + Tailwind, deployed on Vercel → [Live Demo](https://counter-samrat.vercel.app)
 - 📊 [Expense Tracker](https://github.com/SamratDesai7/Expense-Tracker) – React-based app for managing income and expenses
 - ⏱️ [Stopwatch](https://github.com/SamratDesai7/StopWatch) – A simple stopwatch made with JS, HTML, and CSS
 - 🧠 [Cat Fact Generator](https://github.com/SamratDesai7/Cat-api-js) – Fetches random cat facts using the Cat API
@@ -60,6 +63,7 @@
 - 🎨 [Random Color Generator](https://github.com/SamratDesai7/randomColorGenrater) – Instantly creates random colors with HEX/RGB codes
 
 ---
+
 
 ### 🧠 Currently Learning
 
