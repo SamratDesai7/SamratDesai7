@@ -68,7 +68,8 @@
 ---
 
 ### 🚀 Featured Projects
-- ✅ [ToDo App](https://github.com/SamratDesai7/ToDo) – A React-based task management app, deployed using GitHub Pages → [Live Demo](https://to-do-flame-three-92.vercel.app/)
+- 💼 [PortFolio](https://github.com/SamratDesai7/portfolio) – Personal Portfolio showcasing my projects, skills, and resume with smooth navigation, interactive UI, and modern responsive design. → [Live Demo](https://portfolio-wheat-alpha-21.vercel.app/)
+- ✅ [ToDo App](https://github.com/SamratDesai7/ToDo) – A React-based task management app, deployed using Versel → [Live Demo](https://to-do-flame-three-92.vercel.app/)
 - 🧮 [Counter App](https://github.com/SamratDesai7/Counter) – A minimal and responsive counter built using React + Tailwind, deployed on Vercel → [Live Demo](https://counter-ten-gamma.vercel.app/)
 - 📊 [Expense Tracker](https://github.com/SamratDesai7/Expense-Tracker) – React-based app for managing income and expenses, deployed using github pages  → [Live Demo](https://samratdesai7.github.io/Expense-Tracker/)
 - ⏱️ [Stopwatch](https://github.com/SamratDesai7/StopWatch) – A simple stopwatch made with JS, HTML, and CSS, deployed using github pages → [Live Demo](https://samratdesai7.github.io/StopWatch/)
